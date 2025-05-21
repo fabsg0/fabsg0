@@ -1,16 +1,17 @@
-## Hi there 👋
+## 👋 Hi there! I'm Fabio
 
-<!--
-**fabsg0/fabsg0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently in a 4-year software engineering apprenticeship, where I’m building my skills and growing as a developer every day. 😄
 
-Here are some ideas to get you started:
+### 💼 What I do at work
+- Write modern web applications using **C#**, **Blazor**, and **.NET APIs**
+- Work with **Microsoft SQL Server** for database design and queries
+- Collaborate on real-world software projects and learn from experienced engineers
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🏠 What I'm exploring at home
+- Learning **JavaScript** to expand my front-end development skills
+- Experimenting with web technologies and personal projects
+
+### 🚀 Goals
+- Improve my full-stack development skills
+- Contribute to open-source projects
+- Build a solid portfolio of side projects
