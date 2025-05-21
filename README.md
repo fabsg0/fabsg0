@@ -15,3 +15,12 @@ I'm currently in a 4-year software engineering apprenticeship, where I’m build
 - Improve my full-stack development skills
 - Contribute to open-source projects
 - Build a solid portfolio of side projects
+
+### 📈 GitHub Stats
+
+![Fabio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fabsg0&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fabsg0&layout=compact&theme=dark)
+
+- 🌐 [Portfolio Website](https://fabsg0.me)
+- 💼 [LinkedIn](https://www.linkedin.com/in/fabio-brunner05/)
+
